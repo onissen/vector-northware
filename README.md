@@ -18,7 +18,7 @@ extensions/Theme/vector/vector-northware
 
 Then register the Template in the extension's `extension.json`-File under the `ResourceModules` Object with the following code:
 
-````php
+````json
 "themeloader.skins.vector.northware": {
    "styles": {
     "vector/vector-northware/northware-theme.css": {
