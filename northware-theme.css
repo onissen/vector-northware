@@ -1,0 +1,52 @@
+.mw-body {
+  background-color: #f8f9fa;
+  border: none;
+  border-top: 1px solid #e8eaee;
+  border-bottom-left-radius: 0.375rem;
+  border-bottom-right-radius: 0.375rem;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.mw-portlet#p-navigation, .mw-portlet#p-categorytree-portlet, .mw-portlet#p-tb {
+  background-color: #f8f9fa;
+  border-radius: 0.375rem;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+.mw-headline, .mw-first-heading {
+  color: #183153;
+}
+
+.vector-menu-tabs {
+  background: none;
+}
+.vector-menu-tabs li, .vector-menu-tabs li a {
+  background: none;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
+  border: 1px solid transparent;
+  color: #748398;
+}
+.vector-menu-tabs li.selected {
+  border-top: 1px solid #e8eaee;
+  border-left: 1px solid #e8eaee;
+  border-right: 1px solid #e8eaee;
+  font-weight: 600;
+  color: #465a75;
+}
+.vector-menu-tabs li:hover {
+  border-top: 1px solid #e8eaee;
+  border-left: 1px solid #e8eaee;
+  border-right: 1px solid #e8eaee;
+}
+
+.after-portlet-categorytree-portlet {
+  font-size: 0.75rem;
+}
+
+.CategoryTreeEmptyBullet {
+  display: none;
+}
+
+/*# sourceMappingURL=northware-theme.css.map */
