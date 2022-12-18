@@ -1,6 +1,6 @@
 # vector-northware
 
-This repositry is a custom template to the [MediaWiki](https://www.mediawiki.org/)-Skin ["Vector" (Legacy-Version)](https://www.mediawiki.org/wiki/Skin:Vector).
+This repositry is a custom template to the [MediaWiki](https://www.mediawiki.org/)-Skin ["Vector" (legacy-version)](https://www.mediawiki.org/wiki/Skin:Vector).
 
 ## Use this Theme
 
