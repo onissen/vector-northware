@@ -50,3 +50,5 @@ sass -w .:. // To compile every .sass file in the root-directory that has to be 
 sass -w northware-theme.sass:northware-theme.css // To compile only the northware-template.sass
 sass -w northware-templates.sass:northware-templates.css // To compile only the northware-template.sass
 ````
+
+**Sitenote:** The Custom-Settings-Repo for Northware flavoured MediaWiki-Settings is located in [mwcustomsettings-northware](https://github.com/onissen/mwcustomsettings-northware).
